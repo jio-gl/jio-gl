@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![José's GitHub stats](https://readme-stars.vercel.app/api?username=jio-gl&count_private=true)
+
 <!--
 **jio-gl/jio-gl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
