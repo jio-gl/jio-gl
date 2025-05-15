@@ -1,6 +1,6 @@
 # José I. O.
 
-Welcome to my GitHub profile! I'm a Blockchain and Web3 expert with a passion for decentralized systems, smart contracts, and cryptoeconomics. Based in Paris, I specialize in building secure and scalable blockchain solutions, with extensive experience in Solidity, Python, TypeScript and Rust.
+Welcome to my GitHub profile! I'm a Blockchain and Web3 expert with a passion for decentralized systems, computer security, smart contracts, and cryptoeconomics. Based in Paris, I specialize in building secure and scalable blockchain solutions, with extensive experience in Security, Solidity, Python, TypeScript and Rust.
 
 ## About Me
 
